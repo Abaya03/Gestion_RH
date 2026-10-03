@@ -1,0 +1,6 @@
+{
+  "name": "RH Pro - Système Intégré de Gestion RH",
+  "description": "Système complet et bilingue de gestion RH pour PME : Ordres de mission, Frais de mission, Notes de service, Gestion des congés et Annuaire unifié.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
